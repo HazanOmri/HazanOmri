@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omri Hazan</h1>
 <h3 align="center">A passionate Full-Stack/Frontend developer!</h3>
 
-- 🔭 I’m currently working on **SHIVUK MICHRAZIM - WEBSITE**
+- 🔭 I’m currently working on **SHIVUK MICHRAZIM - WEBSITE**.
 
-- 🌱 I’m currently learning **AWS, Google cloud and maybe React native**
+- 🌱 I’m currently learning **AWS, Google cloud and maybe React native**.
 
 - 📫 How to reach me **https://www.linkedin.com/in/omri-hazan-a324b0252/**
 
