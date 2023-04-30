@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omri Hazan</h1>
 <h3 align="center">A passionate Full-Stack/Frontend developer!</h3>
 
-• 🔭 I’m currently working on **SHIVUK MICHRAZIM website**.
+• 🔭 I’m currently working on **Dunia website**.
 
-• 👨‍💻 I’m currently learning **AWS, GCP** and maybe **React native**.
+• 👨‍💻 I’m currently learning **AWS, GCP** and **React native**.
 
 • 🧲 A people's person and a tech lover, and a team player!
 
