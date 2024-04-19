@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omri Hazan</h1>
-<h3 align="center">A passionate Full-Stack/Frontend developer!</h3>
+<h3 align="center">A Full-Stack/Frontend developer!</h3>
 
-• 👨‍💻 I’m currently working at **AI-Mate**, an AI that monitors and analyzes the web to provide a detailed and real-time status report based on AI and NLP.
+• 👨‍💻 I’m currently a Studant at **Sehnkar College** achiving my **Bachelor's degree student in industrial engineering and management**
 
-• 🖨️ I’m currently working on **Print me e-commerce website**, a psychometric test printing service.
+• 🔭 I’m currently learning **Advanced Python course** at my college.
 
-• 🔭 I’m currently learning **Stripe online payments services** and **React native**.
+• 🧲 A people's person, a tech lover, and a team player!
 
-• 🧲 A people's person and a tech lover, and a team player!
-
-• 🎯 Passionate about solving daily challenges, Proficient in building single-page apps with experience in the latest web technologies.
+• 🎯 Like solving challenges, Proficient in building single-page apps with experience in the latest web technologies.
 
 • 🏆 I recently built a clone of Spotify, check it out, it has everything and more! <a href="https://playlist-kqq9.onrender.com/" target="blank">Playlist</a>
 
